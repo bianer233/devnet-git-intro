@@ -1,0 +1,31 @@
+{
+  "labId": "git-intro",
+  "title": "Collaboration: Spark - App Registration and Authentication",
+  "slug": "Learn how to register a new Spark app, and authenticate from a browser based application",
+  "time": "30",
+   "byod": true,
+  "tags": [
+    {"title" : "Collaboration"},
+    {"title": "Spark"},
+    {"title": "SSO"}
+  ],
+  "related": [
+    {
+      "labId": "collab-spark-messages",
+      "title": "Collaboration: Spark - Creating Rooms, Adding Participants and Posting Messages"
+    },
+    {
+	  "labId": "collab-sparkwebhook",
+	  "title": "Spark - Learn to use the Spark Webhooks API to create a webhook that will subscribe to new messages in a room"
+	}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "authors": [
+  	{"name": "David Staudt", "email": "dstaudt@cisco.com"}
+  ]
+}
