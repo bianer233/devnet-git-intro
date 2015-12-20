@@ -30,6 +30,9 @@ No configuration necessary.
 
 If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
 
+## License
+[LICENSE](LICENSE)
+
 ## Getting involved
 
 TBD
