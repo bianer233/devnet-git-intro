@@ -1,0 +1,19 @@
+{
+  "labId": "git-branching",
+  "title": "Learning git branching",
+  "slug": "Learn how to use git for version control",
+  "time": "30",
+  "byod": true,
+  "tags": [
+    {"title" : "Coding"},
+    {"title": "git"},
+    {"title": "version control"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"}
+  ],
+  "authors": [
+  	{"name": "Ashley Roach", "email": "asroach@cisco.com"}
+  ]
+}
