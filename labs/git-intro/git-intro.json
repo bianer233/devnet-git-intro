@@ -16,6 +16,16 @@
     {"title": "4.md"},
     {"title": "5.md"}
   ],
+  "related": [
+    {
+      "labId": "git-branching",
+      "title": "Learning git branching"
+    },
+    {
+      "labId": "git-servers",
+      "title": "Using git with servers"
+    }
+  ],
   "authors": [
   	{"name": "Ashley Roach", "email": "asroach@cisco.com"}
   ]
