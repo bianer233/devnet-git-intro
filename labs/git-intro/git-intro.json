@@ -1,7 +1,7 @@
 {
   "labId": "git-intro",
-  "title": "Learning git",
-  "slug": "Learn how to use git for version control",
+  "title": "Git 100: Basics of the git version control system",
+  "slug": "Learn how to use git for version control including configuration, commits, and differences.",
   "time": "30",
   "byod": true,
   "tags": [

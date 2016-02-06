@@ -1,7 +1,7 @@
 {
   "labId": "git-branching",
-  "title": "Learning git branching",
-  "slug": "Learn how to use git for version control",
+  "title": "Git 101: Branching",
+  "slug": "Learn the basics of git branching so that you can diverge from the main code base without messing up the main code base.",
   "time": "30",
   "byod": true,
   "tags": [

@@ -1,7 +1,7 @@
 {
   "labId": "git-servers",
-  "title": "Using git with servers",
-  "slug": "Learn how to use git for version control",
+  "title": "Git 102: Using git with servers",
+  "slug": "Learn how to use git with servers to share your work with others.",
   "time": "30",
   "byod": true,
   "tags": [
