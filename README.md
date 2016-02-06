@@ -3,7 +3,7 @@
 **Description**:  This is a tutorial that provides an introduction to git.  It is written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
   - **Technology stack**: Built using Markdown.
-  - **Status**:  Alpha status.
+  - **Status**:  Beta status.
 
 ## Dependencies
 
@@ -35,8 +35,8 @@ If you have questions, concerns, bug reports, etc, please file an issue in this 
 
 ## Getting involved
 
-TBD
+* If you'd like to make contributions, feel free to make a request in the issue tracker.  If you're interested in creating a Cisco DevNet Learning Lab, contact Ashley Roach (asroach at cisco.com).
 
 ## Credits and references
 
-TBD
+* [Git SCM official site](http://git-scm.com/)
