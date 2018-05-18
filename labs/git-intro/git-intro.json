@@ -10,11 +10,17 @@
     {"title": "version control"}
   ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"}
+    {"title": "What is version control vs. distributed version control?
+", "file": "1.md"},
+    {"title": "Checking status of a repo
+",
+      "file": "2.md"},
+    {"title": "Adding files",
+      "file": "3.md"},
+    {"title": "Looking at your commit history",
+      "file": "4.md"},
+    {"title": "Oops!  I made a mistake!",
+      "file": "5.md"}
   ],
   "related": [
     {

@@ -10,10 +10,14 @@
     {"title": "version control"}
   ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "Isolating Changes with Git",
+     "file": "1.md"},
+    {"title": "Navigating Branches in Git",
+     "file": "2.md"},
+    {"title": "Dealing with Merge Conflicts",
+     "file": "3.md"},
+    {"title": "Stashing Changes",
+     "file": "4.md"}
   ],
   "authors": [
   	{"name": "Ashley Roach", "email": "asroach@cisco.com"}
