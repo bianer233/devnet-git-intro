@@ -10,8 +10,12 @@
     {"title": "version control"}
   ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"}
+    {"title": "Git servers",
+     "file": "1.md"},
+    {"title": "Stage, Commit, Push, Pull",
+     "file": "2.md"},
+    {"title": "Pull Requests",
+      "file": "3.md"}
   ],
   "authors": [
   	{"name": "Ashley Roach", "email": "asroach@cisco.com"}
