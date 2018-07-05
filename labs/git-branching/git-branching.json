@@ -6,7 +6,7 @@
   "byod": true,
   "tags": [
     {"title" : "Coding"},
-    {"title": "git"},
+    {"title": "Git"},
     {"title": "version control"}
   ],
   "files": [
